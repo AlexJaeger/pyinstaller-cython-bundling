@@ -1,0 +1,9 @@
+*~
+*.c
+*.so
+dist
+*.bak
+build
+*.spec
+*.py[co]
+*.egg-info
