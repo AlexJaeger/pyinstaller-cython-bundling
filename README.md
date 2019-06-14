@@ -9,12 +9,12 @@ using [Pyinstaller][1] with [Cython][1] and helps to answer
 ```#!bash
 git clone https://github.com/prologic/pyinstaller-cython-bundling.git
 cd pyinstaller-cython-bundling
-./dist/build.sh
+./build.sh
 ```
 
 Test it with:
     
-    $ ./dist/hello
+    $ ./hello
 
 ----
 
